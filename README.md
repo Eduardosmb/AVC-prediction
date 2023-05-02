@@ -46,7 +46,7 @@ Esse é um trabalho da disciplina Algebra Linear e Teoria da Informação, do cu
    
  * Classificador linear:
  
-      alculamos a acurácia do modelo apartir da biblioteca numpy. 
+      Calculamos a acurácia do modelo apartir da biblioteca numpy. 
 
 
 
