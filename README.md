@@ -39,22 +39,14 @@ Esse é um trabalho da disciplina Algebra Linear e Teoria da Informação, do cu
   
   
   # Modelo matemático
+  
+ * Arvore de decisão:
 
-
-
-
-
-## Implementação
-
+      Usamos a biblioteca Sklearn, para podermos realizar um modelo apartir do modelo DecisionTree.
    
-
-
-
-
-
-# Conclusão
-
-   
+ * Classificador linear:
+ 
+      alculamos a acurácia do modelo apartir da biblioteca numpy. 
 
 
 
