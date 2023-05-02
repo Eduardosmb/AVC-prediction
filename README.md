@@ -32,9 +32,9 @@ Esse é um trabalho da disciplina Algebra Linear e Teoria da Informação, do cu
    
       ```pip install -r requirements.txt```
   
-  8. Após a instalação de tudo, pode-se rodar o programa de duas distintas maneira:
+  8. Após a instalação de tudo, basta rodar o arquivo main.py.
 
-       1.
+    
        
   
   
